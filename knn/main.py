@@ -45,6 +45,4 @@ if __name__ == "__main__":
     # print testVector[0, 32:63]
 
     # KNN.handwritingClassTest()
-    arr = [1,2,3,4,5]
-    arr_mean = mean(arr)
-    print arr_mean
+    KNN.handwritingClassTest()
